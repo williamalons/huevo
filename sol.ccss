@@ -1,8 +1,0 @@
-<p>one paragraph</p>
-<script type="text/javascript">
-  console.log("firest log") ;
-  alert("yo") ;
-</script>
-<script type="text/javascript">
-  console.log( " second log") ;
-<p>three paragraph</p>
